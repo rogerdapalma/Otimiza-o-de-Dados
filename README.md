@@ -1,4 +1,5 @@
 # Otimizacao-de-dados
+Repositório dedicado às atividades realizadas na disciplina de Otimizacao de dados do curso de Ciência da Computação - UFN.
 <div style="display: inline_block"><br>
  <img align="center" alt="Roger-Python" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
 </div>
